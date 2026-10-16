@@ -1,32 +1,38 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1f6feb&height=140&section=header&text=Lucero%20Scharff&fontSize=44&fontColor=ffffff&fontAlignY=45&desc=Desarrollo%20de%20software%20%C2%B7%20IoT&descSize=18&descAlignY=72" alt="Lucero Scharff" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1f6feb,100:8957e5&height=230&section=header&text=Lucero%20Scharff&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Software%20%C2%B7%20Machine%20Learning%20%C2%B7%20IoT&descSize=20&descAlignY=62&animation=fadeIn" alt="Lucero Scharff" />
 
 <a href="https://github.com/robertoBCV">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=Desarrollo+de+software+y+soluciones+IoT;Java+%C2%B7+Kotlin+%C2%B7+Python+%C2%B7+Web;Aprendizaje+continuo+y+c%C3%B3digo+limpio" alt="Presentación" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1000&color=A371F7&center=true&vCenter=true&width=640&lines=Construyo+software+limpio+y+escalable;Modelos+de+Machine+Learning+con+Python;Soluciones+IoT+que+conectan+lo+f%C3%ADsico+y+lo+digital;Apps+web+y+m%C3%B3viles+centradas+en+las+personas" alt="Presentación" />
 </a>
 
-<br/>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/Disponible_para_colaborar-1f6feb?style=flat-square" alt="Disponible para colaborar" />
-<img src="https://komarev.com/ghpvc/?username=robertoBCV&label=Visitas&color=0d1117&style=flat-square" alt="Visitas" />
+<img src="https://img.shields.io/badge/Software-1f6feb?style=for-the-badge&logo=githubactions&logoColor=white" alt="Software" />
+<img src="https://img.shields.io/badge/Machine_Learning-8957e5?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" />
+<img src="https://img.shields.io/badge/IoT-00878F?style=for-the-badge&logo=arduino&logoColor=white" alt="IoT" />
+<img src="https://img.shields.io/badge/Web_y_Mobile-e34c26?style=for-the-badge&logo=android&logoColor=white" alt="Web y Mobile" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=robertoBCV&label=Visitas&color=8957e5&style=flat-square" alt="Visitas" />
 
 </div>
 
 <br/>
 
-## Sobre mí
+## ✨ Sobre mí
 
 <table>
   <tr>
     <td width="70%" valign="top">
 
-Soy **Lucero Scharff**, desarrolladora enfocada en construir aplicaciones web, móviles y soluciones de IoT. Me interesa escribir código claro, mantenible y útil para las personas que lo usan.
+Soy **Lucero Scharff**, desarrolladora apasionada por convertir ideas en productos reales: desde aplicaciones web y móviles, hasta modelos de **machine learning** y dispositivos **IoT**. Me gusta el código claro, los datos bien trabajados y aprender algo nuevo cada semana.
 
 - 🔭 **Trabajando en:** _(tu proyecto actual)_
-- 🌱 **Aprendiendo:** _(tecnología que estás aprendiendo)_
+- 🌱 **Aprendiendo:** _(por ejemplo: deep learning, MLOps, arquitectura de software)_
 - 🤝 **Abierta a colaborar en:** _(tipo de proyectos)_
-- 💬 **Pregúntame sobre:** Java, Kotlin, Python, desarrollo web e IoT
+- 💬 **Pregúntame sobre:** Python, Java, Kotlin, ML, desarrollo web e IoT
 - 📫 **Contacto:** _(tu correo o LinkedIn)_
 
 </td>
@@ -38,57 +44,80 @@ Soy **Lucero Scharff**, desarrolladora enfocada en construir aplicaciones web, m
   </tr>
 </table>
 
-## Stack tecnológico
+## 🎯 En qué trabajo
+
+<table>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <h3>🧠 Machine Learning</h3>
+      <sub>Análisis de datos, modelos predictivos, redes neuronales y experimentación con notebooks.</sub>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h3>💻 Desarrollo de Software</h3>
+      <sub>Aplicaciones web y móviles, APIs REST, bases de datos y buenas prácticas con Git.</sub>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h3>📡 IoT y Electrónica</h3>
+      <sub>Sensores, microcontroladores y prototipos que conectan el mundo físico con el software.</sub>
+    </td>
+  </tr>
+</table>
+
+## 🧰 Stack tecnológico
 
 **Lenguajes**
 
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://skillicons.dev/icons?i=py,java,kotlin,js,php,swift&perline=6" alt="Lenguajes" />
 </p>
 
-**Web**
+**Machine Learning y datos**
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,numpy&perline=5" alt="Machine Learning y datos" />
 </p>
 
-**IoT y herramientas**
+**Web, backend y bases de datos**
 
 <p>
-  <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white" alt="Sublime Text" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,flask,mysql,postgres&perline=7" alt="Web y backend" />
 </p>
 
-## Proyectos destacados
+**Mobile, DevOps y herramientas**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=androidstudio,docker,linux,git,github,vscode,sublime&perline=7" alt="Herramientas" />
+</p>
+
+**IoT**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&perline=2" alt="IoT" />
+</p>
+
+## 🚀 Proyectos destacados
 
 <!-- Reemplaza con tus repositorios reales -->
-| Proyecto | Descripción | Tecnologías |
-| --- | --- | --- |
-| [nombre-del-proyecto](https://github.com/robertoBCV/nombre-del-proyecto) | Breve descripción de qué hace y para qué sirve. | Java · Kotlin |
-| [otro-proyecto](https://github.com/robertoBCV/otro-proyecto) | Breve descripción de qué hace y para qué sirve. | Python · Arduino |
+| Proyecto | Descripción | Área | Tecnologías |
+| --- | --- | --- | --- |
+| [proyecto-ml](https://github.com/robertoBCV/proyecto-ml) | Modelo de clasificación/predicción con datos reales. | 🧠 ML | Python · scikit-learn |
+| [proyecto-software](https://github.com/robertoBCV/proyecto-software) | Aplicación o API con arquitectura limpia. | 💻 Software | Kotlin · Java |
+| [proyecto-iot](https://github.com/robertoBCV/proyecto-iot) | Prototipo con sensores y envío de datos. | 📡 IoT | Arduino · Python |
 
-## Estadísticas
+## 📊 Estadísticas
 
 <div align="center">
 
-<img height="170" alt="Estadísticas de GitHub" src="https://github-readme-stats.vercel.app/api?username=robertoBCV&show_icons=true&theme=github_dark&hide_border=true&border_radius=8" />
-<img height="170" alt="Lenguajes más usados" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertoBCV&layout=compact&theme=github_dark&hide_border=true&border_radius=8" />
+<img height="170" alt="Estadísticas de GitHub" src="https://github-readme-stats.vercel.app/api?username=robertoBCV&show_icons=true&theme=radical&hide_border=true&border_radius=10" />
+<img height="170" alt="Lenguajes más usados" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertoBCV&layout=compact&theme=radical&hide_border=true&border_radius=10" />
 
 </div>
 
-## Contacto
+## 📬 Hablemos
 
 <div align="center">
 
-<!-- Reemplaza TU-USUARIO / TU-CANAL por tus enlaces reales -->
+<!-- Reemplaza TU-USUARIO / TU-CANAL / correo por tus datos reales -->
 <a href="https://www.linkedin.com/in/TU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:tu-correo@ejemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://www.youtube.com/@TU-CANAL"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
@@ -96,6 +125,6 @@ Soy **Lucero Scharff**, desarrolladora enfocada en construir aplicaciones web, m
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:0d1117&height=60&section=footer" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8957e5,50:1f6feb,100:0d1117&height=100&section=footer" alt="" />
 
 </div>
