@@ -32,7 +32,7 @@ Soy **Lucero Scharff**, desarrolladora apasionada por convertir ideas en product
 - 🔭 **Trabajando en:** _(tu proyecto actual)_
 - 🌱 **Aprendiendo:** _(por ejemplo: deep learning, MLOps, arquitectura de software)_
 - 🤝 **Abierta a colaborar en:** _(tipo de proyectos)_
-- 💬 **Pregúntame sobre:** Python, Java, Kotlin, ML, desarrollo web e IoT
+- 💬 **Pregúntame sobre:** Python, Java, Kotlin, TypeScript, React, ML, desarrollo web e IoT
 - 📫 **Contacto:** _(tu correo o LinkedIn)_
 
 </td>
@@ -68,7 +68,7 @@ Soy **Lucero Scharff**, desarrolladora apasionada por convertir ideas en product
 **Lenguajes**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,java,kotlin,js,php,swift&perline=6" alt="Lenguajes" />
+  <img src="https://skillicons.dev/icons?i=py,java,kotlin,js,ts,php,swift&perline=7" alt="Lenguajes" />
 </p>
 
 **Machine Learning y datos**
@@ -80,7 +80,7 @@ Soy **Lucero Scharff**, desarrolladora apasionada por convertir ideas en product
 **Web, backend y bases de datos**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,flask,mysql,postgres&perline=7" alt="Web y backend" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nodejs,flask,mysql,postgres&perline=9" alt="Web y backend" />
 </p>
 
 **Mobile, DevOps y herramientas**
