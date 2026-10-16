@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Hola%2C%20soy%20Roberto&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Bienvenido%20a%20mi%20GitHub&descSize=20&descAlignY=60&animation=fadeIn" alt="Cabecera" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Hola%2C%20soy%20Lucero&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Bienvenido%20a%20mi%20GitHub&descSize=20&descAlignY=60&animation=fadeIn" alt="Cabecera" />
 
 <a href="https://github.com/Lucero-byte">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=520&lines=Desarrollador+en+formaci%C3%B3n+%F0%9F%9A%80;Apasionado+por+el+software+y+el+IoT+%F0%9F%A4%96;Siempre+aprendiendo+algo+nuevo+%F0%9F%93%9A;Java+%C2%B7+Kotlin+%C2%B7+Python+%C2%B7+Web" alt="Texto animado" />
