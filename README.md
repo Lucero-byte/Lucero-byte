@@ -1,13 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1b3d,50:7b2d8e,100:e0689a&height=240&section=header&text=Lucero%20Scharff&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20%C2%B7%20Machine%20Learning%20%C2%B7%20IoT&descSize=20&descAlignY=58&animation=fadeIn" alt="Lucero Scharff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1b3d,50:7b2d8e,100:e0689a&height=240&section=header&text=Lucero%20Scharff&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Estudiante%20en%20formaci%C3%B3n%20%C2%B7%20Software%20%C2%B7%20Machine%20Learning%20%C2%B7%20IoT&descSize=20&descAlignY=58&animation=fadeIn" alt="Lucero Scharff" />
 
 <a href="https://github.com/Lucero-byte">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1000&color=E0689A&center=true&vCenter=true&width=640&lines=Construyo+software+limpio+y+escalable;Modelos+de+Machine+Learning+con+Python;Soluciones+IoT+que+conectan+lo+f%C3%ADsico+y+lo+digital;Apps+web+y+m%C3%B3viles+centradas+en+las+personas" alt="Presentación" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1000&color=E0689A&center=true&vCenter=true&width=640&lines=Estudiante+en+formaci%C3%B3n+y+apasionada+por+la+tecnolog%C3%ADa+%F0%9F%8E%93;Aprendiendo+a+construir+software+limpio+y+escalable;Practicando+Machine+Learning+con+Python;Explorando+IoT%3A+del+c%C3%B3digo+al+mundo+f%C3%ADsico;Creciendo+un+proyecto+a+la+vez+%F0%9F%8C%B1" alt="Presentación" />
 </a>
 
 <br/><br/>
 
+<img src="https://img.shields.io/badge/%F0%9F%8E%93_Estudiante_en_formaci%C3%B3n-2d1b3d?style=for-the-badge" alt="Estudiante en formación" />
+<br/>
 <img src="https://img.shields.io/badge/Software-7b2d8e?style=for-the-badge&logo=githubactions&logoColor=white" alt="Software" />
 <img src="https://img.shields.io/badge/Machine_Learning-c9559a?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" />
 <img src="https://img.shields.io/badge/IoT-e0689a?style=for-the-badge&logo=arduino&logoColor=white" alt="IoT" />
@@ -27,12 +29,13 @@
   <tr>
     <td width="70%" valign="top">
 
-Soy **Lucero Scharff**, desarrolladora apasionada por convertir ideas en productos reales: desde aplicaciones web y móviles, hasta modelos de **machine learning** y dispositivos **IoT**. Me gusta el código claro, los datos bien trabajados y aprender algo nuevo cada semana.
+Soy **Lucero Scharff**, **estudiante en formación** y futura desarrolladora apasionada por convertir ideas en productos reales: desde aplicaciones web y móviles, hasta modelos de **machine learning** y dispositivos **IoT**. Estoy en pleno proceso de aprendizaje: me gusta el código claro, los datos bien trabajados y aprender algo nuevo cada semana.
 
+- 🎓 **Etapa actual:** estudiante en formación, construyendo mi camino en tecnología
 - 🔭 **Trabajando en:** el prototipo de una mano robótica articulada
 - 🌱 **Aprendiendo:** arquitecturas de software modernas y buenas prácticas de diseño
-- 🤝 **Abierta a colaborar en:** proyectos de Machine Learning, Deep Learning, IoT y automatización
-- 💬 **Pregúntame sobre:** Python, Java, Kotlin, TypeScript, React, ML, desarrollo web e IoT
+- 🤝 **Abierta a aprender y colaborar en:** proyectos de Machine Learning, Deep Learning, IoT y automatización
+- 💬 **Estoy practicando:** Python, Java, Kotlin, TypeScript, React, ML, desarrollo web e IoT
 - ⚡ **Dato curioso:** me gusta conectar el software con el mundo físico
 
 </td>
@@ -44,7 +47,7 @@ Soy **Lucero Scharff**, desarrolladora apasionada por convertir ideas en product
   </tr>
 </table>
 
-## 💜 En qué trabajo
+## 💜 En qué me estoy formando
 
 <table>
   <tr>
@@ -64,6 +67,8 @@ Soy **Lucero Scharff**, desarrolladora apasionada por convertir ideas en product
 </table>
 
 ## 🧰 Stack tecnológico
+
+<div align="center"><sub>Tecnologías que estoy aprendiendo y practicando en mi formación</sub></div>
 
 <div align="center">
 
@@ -132,7 +137,7 @@ Soy **Lucero Scharff**, desarrolladora apasionada por convertir ideas en product
 
 </div>
 
-## 🚀 Proyectos destacados
+## 🚀 Proyectos académicos y personales
 
 <!-- Reemplaza los ejemplos con tus repositorios reales -->
 | Proyecto | Descripción | Área | Tecnologías |
@@ -153,6 +158,9 @@ Soy **Lucero Scharff**, desarrolladora apasionada por convertir ideas en product
 ## 💌 Hablemos
 
 <div align="center">
+
+Siempre abierta a aprender, recibir feedback y conectar con otras personas del mundo tech 💜
+
 
 <!-- Reemplaza TU-USUARIO / TU-CANAL / correo por tus datos reales -->
 <a href="https://www.linkedin.com/in/TU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-7b2d8e?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
