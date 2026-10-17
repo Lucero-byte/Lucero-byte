@@ -65,35 +65,72 @@ Soy **Lucero Scharff**, desarrolladora apasionada por convertir ideas en product
 
 ## 🧰 Stack tecnológico
 
-**Lenguajes**
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=py,java,kotlin,js,ts,php,swift&perline=7" alt="Lenguajes" />
-</p>
+### 💻 Lenguajes
 
-**Machine Learning y datos**
+<table>
+  <tr>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" /><br/><sub><b>Python</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /><br/><sub><b>Java</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin" /><br/><sub><b>Kotlin</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /><br/><sub><b>JavaScript</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" /><br/><sub><b>TypeScript</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" /><br/><sub><b>PHP</b></sub></td>
+  </tr>
+</table>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,numpy&perline=5" alt="Machine Learning y datos" />
-</p>
+### 🧠 Machine Learning y datos
 
-**Web, backend y bases de datos**
+<table>
+  <tr>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" /><br/><sub><b>TensorFlow</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" /><br/><sub><b>PyTorch</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="scikit-learn" /><br/><sub><b>scikit-learn</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=pandas" width="48" height="48" alt="Pandas" /><br/><sub><b>Pandas</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=numpy" width="48" height="48" alt="NumPy" /><br/><sub><b>NumPy</b></sub></td>
+  </tr>
+</table>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nodejs,flask,mysql,postgres&perline=9" alt="Web y backend" />
-</p>
+### 🌐 Web, backend y bases de datos
 
-**Mobile, DevOps y herramientas**
+<table>
+  <tr>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" /><br/><sub><b>HTML5</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" /><br/><sub><b>CSS3</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" /><br/><sub><b>Bootstrap</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" /><br/><sub><b>Tailwind CSS</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /><br/><sub><b>React</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /><br/><sub><b>Node.js</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" /><br/><sub><b>Flask</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /><br/><sub><b>MySQL</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" /><br/><sub><b>PostgreSQL</b></sub></td>
+  </tr>
+</table>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,docker,linux,git,github,vscode,sublime&perline=7" alt="Herramientas" />
-</p>
+### 🛠️ Mobile, DevOps y herramientas
 
-**IoT**
+<table>
+  <tr>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Android Studio" /><br/><sub><b>Android Studio</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /><br/><sub><b>Docker</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /><br/><sub><b>Linux</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br/><sub><b>Git</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /><br/><sub><b>GitHub</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /><br/><sub><b>VS Code</b></sub></td>
+  </tr>
+</table>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&perline=2" alt="IoT" />
-</p>
+### 📡 IoT
+
+<table>
+  <tr>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Arduino" /><br/><sub><b>Arduino</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=raspberrypi" width="48" height="48" alt="Raspberry Pi" /><br/><sub><b>Raspberry Pi</b></sub></td>
+  </tr>
+</table>
+
+</div>
 
 ## 🚀 Proyectos destacados
 
