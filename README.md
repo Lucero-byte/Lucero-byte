@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1b3d,50:7b2d8e,100:e0689a&height=240&section=header&text=Lucero%20Scharff&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Estudiante%20en%20formaci%C3%B3n%20%C2%B7%20Software%20%C2%B7%20Machine%20Learning%20%C2%B7%20IoT&descSize=20&descAlignY=58&animation=fadeIn" alt="Lucero Scharff" />
 
 <a href="https://github.com/Lucero-byte">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1000&color=E0689A&center=true&vCenter=true&width=640&lines=Estudiante+en+formaci%C3%B3n+y+apasionada+por+la+tecnolog%C3%ADa+%F0%9F%8E%93;Aprendiendo+a+construir+software+limpio+y+escalable;Practicando+Machine+Learning+con+Python;Explorando+IoT%3A+del+c%C3%B3digo+al+mundo+f%C3%ADsico;Creciendo+un+proyecto+a+la+vez+%F0%9F%8C%B1" alt="Presentación" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1000&color=E0689A&center=true&vCenter=true&width=640&lines=Estudiante+en+formaci%C3%B3n+%F0%9F%8E%93;Aprendiendo+a+construir+software+limpio+y+escalable;Practicando+Machine+Learning+con+Python;Explorando+IoT%3A+del+c%C3%B3digo+al+mundo+f%C3%ADsico;Creciendo+un+proyecto+a+la+vez+%F0%9F%8C%B1" alt="Presentación" />
 </a>
 
 <br/><br/>
