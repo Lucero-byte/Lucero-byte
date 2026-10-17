@@ -29,12 +29,11 @@
 
 Soy **Lucero Scharff**, desarrolladora apasionada por convertir ideas en productos reales: desde aplicaciones web y móviles, hasta modelos de **machine learning** y dispositivos **IoT**. Me gusta el código claro, los datos bien trabajados y aprender algo nuevo cada semana.
 
-- 🔭 **Trabajando en:** _(tu proyecto actual)_
-- 🌱 **Aprendiendo:** _(por ejemplo: deep learning, MLOps, arquitectura de software)_
-- 🤝 **Abierta a colaborar en:** _(tipo de proyectos)_
+- 🔭 **Trabajando en:** el prototipo de una mano robótica articulada 
+- 🌱 **Aprendiendo:** arquitecturas de software modernas y buenas prácticas de diseño
+- 🤝 **Abierta a colaborar en:** proyectos de Machine Learning, Deep Learning, IoT y automatización
 - 💬 **Pregúntame sobre:** Python, Java, Kotlin, TypeScript, React, ML, desarrollo web e IoT
-- 📫 **Contacto:** _(tu correo o LinkedIn)_
-
+- ⚡ **Dato curioso:** me gusta conectar el software con el mundo físico
 </td>
     <td width="30%" align="center" valign="middle">
 
